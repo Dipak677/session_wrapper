@@ -1,4 +1,4 @@
-## [0.0.0] - 2025-04-10
+## [0.0.1] - 2025-04-10
 
 ### Added
 - A complete session timeout mechanism using `SessionController` and `SessionWrapper`.
