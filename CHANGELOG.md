@@ -21,3 +21,6 @@
 ### Notes
 - Session expires after 10 seconds of inactivity by default.
 - Background color helps visually track activity interaction.
+
+## [0.0.2] - 2025-04-10
+- gif added for preview
