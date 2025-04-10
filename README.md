@@ -5,7 +5,7 @@ A lightweight Flutter widget that helps manage user session timeout based on ina
 ## 📸 Preview
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Dipak677/session_wrapper/refs/heads/main/session_wrapper_sample.gif" width="300" />
+  <img src="https://github.com/Dipak677/session_wrapper/blob/main/session_wrapper_example.gif" width="300" />
 </p>
 
 ---
