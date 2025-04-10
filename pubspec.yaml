@@ -1,6 +1,6 @@
 name: session_wrapper
 description: "A Flutter widget that wraps your app to track user inactivity and trigger session timeout logic using a customizable controller."
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/Dipak677/session_wrapper
 
 environment:

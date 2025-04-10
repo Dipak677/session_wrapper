@@ -1,3 +1,8 @@
+# session_wrapper
+
+[![Pub Version](https://img.shields.io/pub/v/session_wrapper.svg)](https://pub.dev/packages/session_wrapper)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A lightweight Flutter widget that helps manage user session timeout based on inactivity. Wrap your app or screens with `SessionWrapper` to automatically reset a countdown timer on user interaction and trigger a callback when the session expires.
 
 ---
@@ -26,7 +31,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  session_wrapper: ^0.0.3
+  session_wrapper: ^0.0.4
 ```
 
 Then run:

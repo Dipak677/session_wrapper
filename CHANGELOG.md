@@ -27,3 +27,6 @@
 
 ## [0.0.3] - 2025-04-10
 - Updated - README.md
+
+## [0.0.4] - 2025-04-10
+- Updated - README.md
