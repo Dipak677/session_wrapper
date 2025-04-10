@@ -24,3 +24,6 @@
 
 ## [0.0.2] - 2025-04-10
 - gif added for preview
+
+## [0.0.3] - 2025-04-10
+- Updated - README.md

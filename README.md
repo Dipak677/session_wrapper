@@ -26,7 +26,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  session_wrapper: ^0.0.1
+  session_wrapper: ^0.0.3
 ```
 
 Then run:
@@ -116,4 +116,4 @@ Inside `SessionWrapperExample`, user taps reset the session timer. If inactive f
 
 ## 📄 License
 
-This package is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) file for more information.# session_wrapper
+This package is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) file for more information.
